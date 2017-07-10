@@ -1,0 +1,14 @@
+﻿{
+	"name":"portfolio",
+	"joinJs" : [
+		"app/js/json2html.js",
+		"app/js/data.js",
+		"app/js/templates.js",
+		"app/js/init.js",
+		"app/js/editor.js",
+		"app/js/FileSaver.js",
+		"app/js/post.js",
+		"app/js/item.js",
+		"app/js/app.js"
+    ]
+}
